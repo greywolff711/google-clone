@@ -1,2 +1,2 @@
-export const API_KEY="My_KEY";
+export const API_KEY="MY_KEY";
 export default API_KEY;
